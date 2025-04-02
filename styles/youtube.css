@@ -3,6 +3,7 @@ p {
   margin-top: 0;
   margin-bottom: 0;
 }
+
 .video-grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
@@ -13,10 +14,7 @@ p {
   width: 100%;
   
 }
-.search_bar{
-  display: block;
-  margin-bottom: 15px;
-}
+
 .video_title{
    margin-top: 0;
    font-size: 14px;
